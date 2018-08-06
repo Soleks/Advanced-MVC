@@ -1,0 +1,9 @@
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.DomainNew\bin\Debug\netstandard2.0\WebStore.DomainNew.deps.json
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.DomainNew\bin\Debug\netstandard2.0\WebStore.DomainNew.dll
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.DomainNew\bin\Debug\netstandard2.0\WebStore.DomainNew.pdb
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.DomainNew\obj\Debug\netstandard2.0\WebStore.DomainNew.csprojAssemblyReference.cache
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.DomainNew\obj\Debug\netstandard2.0\WebStore.DomainNew.csproj.CoreCompileInputs.cache
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.DomainNew\obj\Debug\netstandard2.0\WebStore.DomainNew.AssemblyInfoInputs.cache
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.DomainNew\obj\Debug\netstandard2.0\WebStore.DomainNew.AssemblyInfo.cs
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.DomainNew\obj\Debug\netstandard2.0\WebStore.DomainNew.dll
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.DomainNew\obj\Debug\netstandard2.0\WebStore.DomainNew.pdb

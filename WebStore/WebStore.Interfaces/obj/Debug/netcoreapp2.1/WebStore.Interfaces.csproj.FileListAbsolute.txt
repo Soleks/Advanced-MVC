@@ -1,0 +1,12 @@
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.Interfaces\bin\Debug\netcoreapp2.1\WebStore.Interfaces.deps.json
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.Interfaces\bin\Debug\netcoreapp2.1\WebStore.Interfaces.dll
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.Interfaces\bin\Debug\netcoreapp2.1\WebStore.Interfaces.pdb
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.Interfaces\bin\Debug\netcoreapp2.1\WebStore.DomainNew.dll
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.Interfaces\bin\Debug\netcoreapp2.1\WebStore.DomainNew.pdb
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.1\WebStore.Interfaces.csprojAssemblyReference.cache
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.1\WebStore.Interfaces.csproj.CoreCompileInputs.cache
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.1\WebStore.Interfaces.AssemblyInfoInputs.cache
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.1\WebStore.Interfaces.AssemblyInfo.cs
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.1\WebStore.Interfaces.csproj.CopyComplete
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.1\WebStore.Interfaces.dll
+D:\Документы D\Projects\GB\.Net Core Mvc Advanced\Lesson 1\Start\WebStore\WebStore.Interfaces\obj\Debug\netcoreapp2.1\WebStore.Interfaces.pdb

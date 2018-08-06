@@ -1,0 +1,65 @@
+An unhandled exception occurred while processing the request.
+WinHttpException: Ќе удаетс€ установить соединение с сервером
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+
+HttpRequestException: An error occurred while sending the request.
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+
+Stack Query Cookies Headers
+WinHttpException: Ќе удаетс€ установить соединение с сервером
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Threading.Tasks.RendezvousAwaitable.GetResult()
+System.Net.Http.WinHttpHandler+<StartRequest>d__105.MoveNext()
+
+Show raw exception details
+HttpRequestException: An error occurred while sending the request.
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+System.Runtime.CompilerServices.ConfiguredTaskAwaitable+ConfiguredTaskAwaiter.GetResult()
+System.Net.Http.DiagnosticsHandler+<SendAsync>d__2.MoveNext()
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+System.Runtime.CompilerServices.ConfiguredTaskAwaitable+ConfiguredTaskAwaiter.GetResult()
+System.Net.Http.HttpClient+<FinishSendAsyncBuffered>d__58.MoveNext()
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+WebStore.Clients.ValuesClient+<GetAsync>d__6.MoveNext() in ValuesClient.cs
++
+            var response = await Client.GetAsync($"{ServiceAddress}");
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+WebStore.Controllers.HomeController+<Index>d__2.MoveNext() in HomeController.cs
++
+            var values = await _valuesService.GetAsync();
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker+<InvokeActionMethodAsync>d__12.MoveNext()
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker+<InvokeNextActionFilterAsync>d__10.MoveNext()
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(ref State next, ref Scope scope, ref object state, ref bool isCompleted)
+Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker+<InvokeInnerFilterAsync>d__14.MoveNext()
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker+<InvokeNextResourceFilter>d__22.MoveNext()
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(ref State next, ref Scope scope, ref object state, ref bool isCompleted)
+Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker+<InvokeFilterPipelineAsync>d__17.MoveNext()
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker+<InvokeAsync>d__15.MoveNext()
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+Microsoft.AspNetCore.Builder.RouterMiddleware+<Invoke>d__4.MoveNext()
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+Microsoft.AspNetCore.Authentication.AuthenticationMiddleware+<Invoke>d__6.MoveNext()
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware+<Invoke>d__7.MoveNext()
